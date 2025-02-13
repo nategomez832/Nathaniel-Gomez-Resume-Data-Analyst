@@ -3,28 +3,31 @@
 
 
 - <b>Python</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
 - <b>Tableu</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 - <b>SQL</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 
+<h2>
 
 
-
-
+About Me 
 - 🔭 I’m currently working on helping local brick and mortar businesses run more efficiently by using data.
 - 🌱 I’m currently learning Mandarin
 - 💬 I am fluent in English and Spanish
 - 📫 How to reach me: nategomez845@gmail.com or 832 965-3082
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a public transportation nerd. I enjoy traveling to cities just to check out their metrorail or bus rapid transit systems. 
+- ⚡ Fun fact: I am a public transportation nerd. I enjoy traveling to cities just to check out their metrorail or bus rapid transit systems.
+
 
 
 <h2> 🤳 Connect with me:</h2>
