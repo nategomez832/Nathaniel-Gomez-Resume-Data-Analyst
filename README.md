@@ -19,12 +19,12 @@
 
 
 
-- 🔭 I’m currently working on helping local brick and mortar businesses run more efficiently using data and start their an ecommerce presence.
+- 🔭 I’m currently working on helping local brick and mortar businesses run more efficiently by using data.
 - 🌱 I’m currently learning Mandarin
 - 💬 I am fluent in English and Spanish
 - 📫 How to reach me: nategomez845@gmail.com or 832 965-3082
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a public transportation nerd. I enjoy traveling to cities just to check out their metrorails or bus rapid transit systems. 
+- ⚡ Fun fact: I am a public transportation nerd. I enjoy traveling to cities just to check out their metrorail or bus rapid transit systems. 
 
 
 <h2> 🤳 Connect with me:</h2>
