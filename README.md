@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nathaniel Gomez! <br/><a href="https://github.com/nategomez832/Nathaniel-Gomez-Resume-Data-Analyst/edit/main/README.md)</a>, <a href="https//www.linkedin.com/in/nathaniel-gomez-29952128l</a>
-<h2> 💻 Data Analysis Projects:</h2>
+<h2> 💻 Data Analysis Projects :</h2>
 
 
 - <b>Python</b>
