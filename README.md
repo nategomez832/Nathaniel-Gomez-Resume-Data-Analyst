@@ -5,7 +5,7 @@
 - <b>Python</b>
    - [Texas Workers Compensation Pharmacy Data Analysis](https://github.com/nategomez832/Python-TX-Workers-Comp-Data-Analysis)<b><i>
 - <b>Tableu</b>
-   - [European Union Emission Trading System Overview Dashboard](https://github.com/nategomez832/Tableau-Project/blob/main/README.md)
+   - [European Union Emission Trading System Overview Dashboard](https://github.com/nategomez832/Tableau-Project/blob/main/README.md) <b><i>
 
 
 - <b>SQL</b>
