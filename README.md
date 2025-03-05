@@ -9,7 +9,7 @@
 
 
 - <b>SQL</b>
--  [ Seattle EV Data](https://github.com/nategomez832/HyundaiSeattlesql/blob/main/README.md)
+   -  [ Seattle EV Data](https://github.com/nategomez832/HyundaiSeattlesql/blob/main/README.md)
 
  
 - <b>Smartsheets</b>
